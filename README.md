@@ -18,7 +18,7 @@ Here I want to practice coding by creating an online shop that sells original ar
 Here I want to practice code by creating an online recipe book. I want to be able to play around with different ways to check off ingridients and steps and build in timers in steps that require a set time.  
 
 ### Installation
-If you would like to create your own Practice Playground, you can download a copy from my [GitHub](https://github.com/IvyNozaki/PracticePlayground) account. You can fully customize the space to practice coding. I have chosen these 3 applications for now but you can add more to your space.  
+If you would like to create your own Practice Playground, you can download a copy from my GitHub account. You can fully customize the space to practice coding. I have chosen these 3 applications for now but you can add more to your space.  
 
 ### Support
 Feel free to reach out to me for more fun ideas.  
